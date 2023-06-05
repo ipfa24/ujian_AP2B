@@ -25,7 +25,7 @@ def main():
     textbox1.setPlaceholderText("Masukkan Nama anda")
     textbox2.setPlaceholderText("Masukkan NPM anda")
     textbox3.setPlaceholderText("Masukkan Kelas anda")
-    button_input = QPushButton("INPUT DATA")
+    button_input = QPushButton("INPUT DATA ANDA")
     button_input.clicked.connect(on_clicked)
 
     
